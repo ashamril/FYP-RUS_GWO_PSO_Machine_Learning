@@ -6,4 +6,4 @@ This study evaluated an algorithm level approach based on natured-inspired optim
 Optimization (PSO) and Grey Wolf Optimizer (GWO) to address imbalanced class problem. The method involves adaptively balancing the distribution and combine with supervised machine learning classifiers which are Artificial Neural Network (ANN),
 Support Vector Machine (SVM), Extreme Gradient-Boosted Tree (XGBoost) and Random Forest (RF) to maximize the classification performance for electricity fraud case. 
 
-Comparison between Random undersamping, PSO & GWO techniques in undersampling the majority class.
+Comparison between Random Undersamping, PSO & GWO techniques in undersampling the majority class.
