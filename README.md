@@ -1,6 +1,6 @@
 # My FYP for Master of Data Science, UiTM
 
-## Title of the research project
+## Title of the research project:
 ## An Evaluation of Nature-inspired Optimization Algorithms and Machine Learning Classifiers for Electricity Fraud Prediction
 
 This study evaluated an algorithm level approach based on nature-inspired optimization algorithms which are Particle Swarm
