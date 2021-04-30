@@ -1,4 +1,4 @@
-# My FYP for Master of Data Science, UiTM. Machine learning models - ANN, SVM, XGBoost & RF
+# Machine learning models - ANN, SVM, XGBoost & RF
 
 ## Title of the research project:
 ## An Evaluation of Nature-inspired Optimization Algorithms and Machine Learning Classifiers for Electricity Fraud Prediction
