@@ -1,4 +1,4 @@
-# My FYP for Master of Data Science, UiTM
+# My FYP for Master of Data Science, UiTM. Machile learning models - ANN, SVM, XGBoost & RF
 
 ## Title of the research project:
 ## An Evaluation of Nature-inspired Optimization Algorithms and Machine Learning Classifiers for Electricity Fraud Prediction
